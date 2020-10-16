@@ -36,14 +36,13 @@ namespace LetsDoSomeVocab
         then you write the name of the function
         then add parameters within the parentheses if there are any */
 
-        /* the top function returns nothing and takes no parameters*/
-
-        /* the second function returns a boolean and takes an int parameter*/
 
 
-
+        /* the top function "TestFunction" returns nothing and takes no parameters*/
         void TestFunction(/*You would add parameters here*/)
         {
+
+            /* SecondTestFunction returns a boolean and takes an int parameter*/
             bool SecondTestFunction(int taco)
             {
                 return int < 100;
